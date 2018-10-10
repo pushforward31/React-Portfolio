@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import PlayerTwo from '../videoTwo/videoTwo';
+// import PlayerTwo from '../videoTwo/videoTwo';
 const aboutMe = () => (
   
 
