@@ -6,14 +6,14 @@ const aboutMe = () => (
 
 
 <div className = "contain">
-	<section className = "container1" > 
+	{/* <section className = "container1" > 
   <div className ="name">
   <span className = "name1"> Welcome to my Page. Check out my Story </span>
   </div>
 	
-	</section>
-<div className = "pic"> 
-</div>
+	</section> */}
+  <div className = "pic"> 
+  </div>
 
 
 	<section className= "skills">
