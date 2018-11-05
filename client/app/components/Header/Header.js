@@ -12,7 +12,7 @@ const Header = () => (
   
   <nav>
  
- 
+  <span className = "title1">JJ Lemons</span>
    <h6> 
 
 
@@ -21,7 +21,7 @@ const Header = () => (
        
         
         <Link className="title" to="/portTwo">  Portfolio </Link>
-        <span className = "title1">JJ Lemons</span>
+        
 </h6>
  
     </nav>

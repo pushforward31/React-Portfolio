@@ -24,6 +24,8 @@ const aboutMe = () => (
    <li>Proven Leadership ability</li>
    <li>Work well with a team </li>
    <li>Proficient in implementing newly learned skills </li>
+   <li>Constently seeking different programming methods for best practices</li>
+   <li>Driven to learn new technologies and tools to enhance ability </li>
    </ul>
   </div>
 
@@ -38,7 +40,7 @@ const aboutMe = () => (
              <div className = "col-md-4">
 <h4> Advantages</h4>
    <ul>
-   <li>Train programmers to understand the Javascript language </li>
+   <li>Trained programmers to understand the Javascript language </li>
    <li>Years of managerial experience over multiple store operations</li>
    <li>Gained a mature determination to work until the job is done </li>
    <li> Consistent track record of success in achieving company and personal targets </li>
@@ -87,18 +89,20 @@ const aboutMe = () => (
     
     <div className = "container4">
   
-  <div className = "name2">
+  <div className = "name1">
+  <span>
       <h3><b>Here at TrilogyEd</b></h3>
      <p className = "name3"> Troubleshoot and debug code to make sure functionailty is achieved </p><br/>
      <p className = "name3">Guide student programmers to help their learning experience  </p><br/>
-     <p className = "name3">Write code and code-based activities for students to get hands-in practice with real-world problem solving </p><br/>
+     <p className = "name3">Write code and code-based activities for students to get hands-on practice with real-world problem solving </p><br/>
      <p className = "name3"> Restructure existing content into modular hourly standalone lessons </p><br/>
      <p className = "name3"> Create visual diagrams and annotations to break down abstract technical concepts</p>
+     </span>
      </div>
     </div>
     </div>
 </div>
-  
+<br/>
 
      {/* </section> */}
 

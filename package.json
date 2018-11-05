@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "webpack -p --progress --profile --colors && node server",
-    "start:dev": "node server"
+    "start": "node server"
+    
   },
   "engines": {
     "node": ">=6"
