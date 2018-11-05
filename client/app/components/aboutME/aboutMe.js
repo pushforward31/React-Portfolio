@@ -50,7 +50,7 @@ const aboutMe = () => (
 
      {/* <section> */}
 <div className = "row">
-<div className = "col-md-6">
+<div className = "col-md-4">
     
   <div className = "container2">
 
@@ -68,14 +68,14 @@ const aboutMe = () => (
   
   {/* </section>
   <section> */}
-<div className = "col-md-6">
+<div className = "col-md-4">
   <div className = "container3">
   <div className = "name2">
-  <span >
+  <span>
   <h3><b>My Time at Georgia Tech</b></h3>
    <p className = "name3"> Achieved multiple Dean's list awards (3.0 gpa/semester).</p><br/>
    <p className = "name3"> Attended the Javascript Web Development Bootcamp and completed the program with an "A" average</p><br/>
-   <p className = "name3"> Attended the Javascript Web Development Bootcamp and completed the program with an "A" average</p><br/>
+   <p className = "name3"> Contributed over 1200 hours of full immersion in understanding best programming techniques and principles </p><br/>
    <p className = "name3">Multiple awards for track and field including Team Captain, (ACC)Conference champion and MVP, NCAA All-American, Olympic Trial Finalist</p>
    </span>
    </div>
@@ -83,12 +83,26 @@ const aboutMe = () => (
   </div>
   </div>
 
+<div className = "col-md-4">
+    
+    <div className = "container4">
+  
+  <div className = "name2">
+      <h3><b>Here at TrilogyEd</b></h3>
+     <p className = "name3"> Troubleshoot and debug code to make sure functionailty is achieved </p><br/>
+     <p className = "name3">Guide student programmers to help their learning experience  </p><br/>
+     <p className = "name3">Write code and code-based activities for students to get hands-in practice with real-world problem solving </p><br/>
+     <p className = "name3"> Restructure existing content into modular hourly standalone lessons </p><br/>
+     <p className = "name3"> Create visual diagrams and annotations to break down abstract technical concepts</p>
+     </div>
+    </div>
+    </div>
 </div>
   
 
      {/* </section> */}
 
-     <section> 
+     {/* <section> 
      <div className = "row">
 	<div className = "col-md-4">
 	<img className = "backPics" src = "images/backgroundgt.jpeg"/>
@@ -102,7 +116,7 @@ const aboutMe = () => (
 	</div>
 	</div>
 
-     </section>
+     </section> */}
     <div className = "contact">
       <h2 className="contact">CONTACT</h2>
             <p className="contact"><i>Drop me a message</i></p>

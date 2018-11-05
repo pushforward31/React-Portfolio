@@ -515,7 +515,6 @@ height:10%;
 
 .container2{
   background-image: url("../../public/images/waffleImage.jpg");
-
   /*filter: brightness(0.30);*/
   width: 100%;
    min-height: 500px;
@@ -539,6 +538,19 @@ height:10%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+.container4{
+  background-image: url("../../public/images/picture15.jpg");
+  /*filter: brightness(0.30);*/
+  width: 100%;
+   min-height: 500px;
+  position: relative;
+    /*opacity: 0.65;*/
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 .contact{
   text-align: center;
