@@ -48,38 +48,45 @@ const aboutMe = () => (
              </div>
      </section>
 
-     <section>
+     {/* <section> */}
+<div className = "row">
+<div className = "col-md-6">
     
   <div className = "container2">
 
 <div className = "name2">
     <h3><b>My Time at Waffle House</b></h3>
-   <p className = "name3"> Managed over employees 80 staff members and 3 store managers.</p><br/>
+   <p className = "name3"> Managed over 80 staff members and 3 store managers.</p><br/>
+   <p className = "name3">Developed controlled procedures that managed operational costs  </p><br/>
    <p className = "name3">Won multiple awards including "Best Operational Efficiency", "Team Player Award", "Highest Customer Rentention Awards" and more.</p><br/>
    <p className = "name3"> Mentored hourly staff members and store managers to be promoted to store managers and distrct managers respectively.</p>
    </div>
   
   
   </div>
+  </div>
   
-  </section>
-  <section>
-
+  {/* </section>
+  <section> */}
+<div className = "col-md-6">
   <div className = "container3">
   <div className = "name2">
+  <span >
   <h3><b>My Time at Georgia Tech</b></h3>
-  <p className = "name3"> Attended the Javascript Web Development Bootcamp and completed the program with an "A" average</p>
-  <p className = "name3"> Achieved 2 awards for "Application with best use of Technology" and the "Top 5 most creative TA award"</p>
    <p className = "name3"> Achieved multiple Dean's list awards (3.0 gpa/semester).</p><br/>
-   <p className = "name3">Multiple awards for track and field including Team Captain, (ACC)Conference champion and MVP, NCAA All-American, Olympic Trial Finalist</p><br/>
-   <p className = "name3"> Attended the Javascript Web Development Bootcamp and completed the program with an "A" average</p>
+   <p className = "name3"> Attended the Javascript Web Development Bootcamp and completed the program with an "A" average</p><br/>
+   <p className = "name3"> Attended the Javascript Web Development Bootcamp and completed the program with an "A" average</p><br/>
+   <p className = "name3">Multiple awards for track and field including Team Captain, (ACC)Conference champion and MVP, NCAA All-American, Olympic Trial Finalist</p>
+   </span>
    </div>
   
   </div>
+  </div>
 
+</div>
   
 
-     </section>
+     {/* </section> */}
 
      <section> 
      <div className = "row">

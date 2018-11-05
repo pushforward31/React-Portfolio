@@ -12,10 +12,17 @@ class portTwo extends Component {
 render() {
 	return (
 	<Carousel>
+                 <div>   
+                	<h4><b>Movie Finder Challenge</b></h4>
+                    <h5 className = "description">This application uses Omdb to search movies and tv series in bulk. Finds up to 10 results for any name entered into the search box.</h5>
+                    <img className = "portPics" src="images/picture14.png" onClick= "https://pushforward31.github.io/avoxi-challenge/" />
+                    <a href="https://pushforward31.github.io/avoxi-challenge/">
+                    <p className="legend">Website </p>
+                    </a>
+                </div>
                 <div>   
                 	<h4><b>Flaming Cabbage</b></h4>
                     <h5 className = "description">A travel application that shows nearby restaurants with “good” reviews. It also shows the weather forecast for the next 5 days.</h5>
-  	
                     <img className = "portPics" src="images/picture9.png" onClick= "https://weblinaut.github.io/CabbageHead/" />
                     <a href="https://weblinaut.github.io/CabbageHead/">
                     <p className="legend">Website </p>
